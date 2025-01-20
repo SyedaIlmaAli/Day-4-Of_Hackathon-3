@@ -50,15 +50,15 @@ This dynamic e-commerce furniture website template is built with Next.js, TypeSc
 ### Screenshots
 Here are some screenshots of the furniture website template:
 - **Home Page**
-- ![Home Page](public/home.png)
+![Home Page](public/home.png)
 - **Product Listing Page**
-- ![Product Listing Page](public/productListing.png)
+![Product Listing Page](public/productListing.png)
 - **Product Detail Page**
-- ![Product Details Page](public/productdetail.png)
+![Product Details Page](public/productdetail.png)
 - **Cart Page**
-- ![Cart Page](public/cart.png)
+![Cart Page](public/cart.png)
 - **About Page**
-- ![About Page](public/about.png)
+![About Page](public/about.png)
 
 ### Features and Enhancements:
 - Integration with **Sanity CMS**.
