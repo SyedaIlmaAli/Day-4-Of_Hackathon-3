@@ -25,7 +25,7 @@ After dedicating significant effort to this project, I’m excited to announce t
 
 This project not only enhanced my skills in Next.js, TypeScript, and Sanity CMS, but also provided me with invaluable experience in developing a dynamic website.
 
-## Project Title: DAY 4 - BUILDING DYNAMIC FRONTEND COMPONENTS FOR YOUR MARKETPLACE
+## Project Title: "Day 4 - Dynamic Frontend Components - Avion
 
 ### Furniture Website Template with Next.js:
 
@@ -49,10 +49,15 @@ This dynamic e-commerce furniture website template is built with Next.js, TypeSc
 
 ### Screenshots
 Here are some screenshots of the furniture website template:
+**Home Page**
 - ![Home Page](public/home.png)
+**Product Listing Page**
 - ![Product Listing Page](public/productListing.png)
+**Product Detail Page**
 - ![Product Details Page](public/productdetail.png)
+**Cart Page**
 - ![Cart Page](public/cart.png)
+**About Page**
 - ![About Page](public/about.png)
 
 ### Features and Enhancements:
