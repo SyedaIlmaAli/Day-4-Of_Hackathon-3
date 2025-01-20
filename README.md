@@ -67,9 +67,21 @@ Here are some screenshots of the furniture website template:
 - Responsive design for all devices.
 - Error handling for API calls.
 
-### Acknowledgments:
-- **Sanity CMS**: For managing dynamic content like products and categories.
-- **Tailwind CSS**: For providing a fast and efficient way to style the site.
-- **Next.js**: For building a performant and SEO-friendly application.
+## Self-Validation Checklist:
+
+### Frontend Component Development:
+- [✔]
+
+### Styling and Responsiveness:
+- [✔]
+
+### Code Quality:
+- [✔]
+
+### Documentation and Submission:
+- [✔]
+
+### Final Review: 
+- [✔]
 
 completed.......
